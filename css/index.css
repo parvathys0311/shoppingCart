@@ -1,0 +1,16 @@
+
+
+
+.img-container {
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: center; 
+ 
+  max-width:1200px;
+  margin:auto;
+  margin-top: 5em;
+}
+
+.img-container img{
+  width: 200px;
+}
